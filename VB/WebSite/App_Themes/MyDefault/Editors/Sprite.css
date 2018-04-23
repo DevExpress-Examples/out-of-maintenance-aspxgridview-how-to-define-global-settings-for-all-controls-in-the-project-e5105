@@ -1,0 +1,729 @@
+.dxEditors_caRefresh_MyDefault,
+.dxEditors_edtCalendarFNNextYear_MyDefault,
+.dxEditors_edtCalendarFNPrevYear_MyDefault,
+.dxEditors_edtCalendarNextMonth_MyDefault,
+.dxEditors_edtCalendarNextMonthDisabled_MyDefault,
+.dxEditors_edtCalendarNextYear_MyDefault,
+.dxEditors_edtCalendarNextYearDisabled_MyDefault,
+.dxEditors_edtCalendarPrevMonth_MyDefault,
+.dxEditors_edtCalendarPrevMonthDisabled_MyDefault,
+.dxEditors_edtCalendarPrevYear_MyDefault,
+.dxEditors_edtCalendarPrevYearDisabled_MyDefault,
+.dxEditors_edtDETSClockFace_MyDefault,
+.dxEditors_edtDETSHourHand_MyDefault,
+.dxEditors_edtDETSMinuteHand_MyDefault,
+.dxEditors_edtDETSSecondHand_MyDefault,
+.dxEditors_edtDropDown_MyDefault,
+.dxEditors_edtDropDownDisabled_MyDefault,
+.dxEditors_edtEllipsis_MyDefault,
+.dxEditors_edtEllipsisDisabled_MyDefault,
+.dxEditors_edtError_MyDefault,
+.dxEditors_edtRadioButtonChecked_MyDefault,
+.dxEditors_edtRadioButtonCheckedDisabled_MyDefault,
+.dxEditors_edtRadioButtonUnchecked_MyDefault,
+.dxEditors_edtRadioButtonUncheckedDisabled_MyDefault,
+.dxEditors_edtSpinEditDecrementImage_MyDefault,
+.dxEditors_edtSpinEditDecrementImageDisabled_MyDefault,
+.dxEditors_edtSpinEditIncrementImage_MyDefault,
+.dxEditors_edtSpinEditIncrementImageDisabled_MyDefault,
+.dxEditors_edtSpinEditLargeDecImage_MyDefault,
+.dxEditors_edtSpinEditLargeDecImageDisabled_MyDefault,
+.dxEditors_edtSpinEditLargeIncImage_MyDefault,
+.dxEditors_edtSpinEditLargeIncImageDisabled_MyDefault,
+.dxEditors_edtTBDecBtn_MyDefault,
+.dxEditors_edtTBDecBtnDisabled_MyDefault,
+.dxEditors_edtTBDecBtnHover_MyDefault,
+.dxEditors_edtTBDecBtnPressed_MyDefault,
+.dxEditors_edtTBIncBtn_MyDefault,
+.dxEditors_edtTBIncBtnDisabled_MyDefault,
+.dxEditors_edtTBIncBtnHover_MyDefault,
+.dxEditors_edtTBIncBtnPressed_MyDefault,
+.dxEditors_edtTokenBoxTokenRemoveButton_MyDefault,
+.dxEditors_fcadd_MyDefault,
+.dxEditors_fcaddhot_MyDefault,
+.dxEditors_fcgroupaddcondition_MyDefault,
+.dxEditors_fcgroupaddgroup_MyDefault,
+.dxEditors_fcgroupand_MyDefault,
+.dxEditors_fcgroupnotand_MyDefault,
+.dxEditors_fcgroupnotor_MyDefault,
+.dxEditors_fcgroupor_MyDefault,
+.dxEditors_fcgroupremove_MyDefault,
+.dxEditors_fcopany_MyDefault,
+.dxEditors_fcopbegin_MyDefault,
+.dxEditors_fcopbetween_MyDefault,
+.dxEditors_fcopblank_MyDefault,
+.dxEditors_fcopcontain_MyDefault,
+.dxEditors_fcopend_MyDefault,
+.dxEditors_fcopequal_MyDefault,
+.dxEditors_fcopgreater_MyDefault,
+.dxEditors_fcopgreaterorequal_MyDefault,
+.dxEditors_fcopless_MyDefault,
+.dxEditors_fcoplessorequal_MyDefault,
+.dxEditors_fcoplike_MyDefault,
+.dxEditors_fcopnotany_MyDefault,
+.dxEditors_fcopnotbetween_MyDefault,
+.dxEditors_fcopnotblank_MyDefault,
+.dxEditors_fcopnotcontain_MyDefault,
+.dxEditors_fcopnotequal_MyDefault,
+.dxEditors_fcopnotlike_MyDefault,
+.dxEditors_fcremove_MyDefault,
+.dxEditors_fcremovehot_MyDefault,
+.dxeFocused_MyDefault .dxeTBHSys .dxeFocusedMDHSys .dxEditors_edtTBMainDH_MyDefault,
+.dxeFocused_MyDefault .dxeTBHSys .dxeFocusedMDHSys .dxEditors_edtTBMainDHHover_MyDefault,
+.dxeFocused_MyDefault .dxeTBHSys .dxeFocusedMDHSys .dxEditors_edtTBMainDHPressed_MyDefault,
+.dxeFocused_MyDefault .dxeTBHSys .dxeFocusedSDHSys .dxEditors_edtTBSecondaryDH_MyDefault,
+.dxeFocused_MyDefault .dxeTBHSys .dxeFocusedSDHSys .dxEditors_edtTBSecondaryDHHover_MyDefault,
+.dxeFocused_MyDefault .dxeTBHSys .dxeFocusedSDHSys .dxEditors_edtTBSecondaryDHPressed_MyDefault,
+.dxeFocused_MyDefault .dxeTBVSys .dxeFocusedMDHSys .dxEditors_edtTBMainDH_MyDefault,
+.dxeFocused_MyDefault .dxeTBVSys .dxeFocusedMDHSys .dxEditors_edtTBMainDHHover_MyDefault,
+.dxeFocused_MyDefault .dxeTBVSys .dxeFocusedMDHSys .dxEditors_edtTBMainDHPressed_MyDefault,
+.dxeFocused_MyDefault .dxeTBVSys .dxeFocusedSDHSys .dxEditors_edtTBSecondaryDH_MyDefault,
+.dxeFocused_MyDefault .dxeTBVSys .dxeFocusedSDHSys .dxEditors_edtTBSecondaryDHHover_MyDefault,
+.dxeFocused_MyDefault .dxeTBVSys .dxeFocusedSDHSys .dxEditors_edtTBSecondaryDHPressed_MyDefault,
+.dxeTBHSys .dxEditors_edtTBMainDH_MyDefault,
+.dxeTBHSys .dxEditors_edtTBMainDHDisabled_MyDefault,
+.dxeTBHSys .dxEditors_edtTBMainDHHover_MyDefault,
+.dxeTBHSys .dxEditors_edtTBMainDHPressed_MyDefault,
+.dxeTBHSys .dxEditors_edtTBSecondaryDH_MyDefault,
+.dxeTBHSys .dxEditors_edtTBSecondaryDHDisabled_MyDefault,
+.dxeTBHSys .dxEditors_edtTBSecondaryDHHover_MyDefault,
+.dxeTBHSys .dxEditors_edtTBSecondaryDHPressed_MyDefault,
+.dxeTBVSys .dxEditors_edtTBMainDH_MyDefault,
+.dxeTBVSys .dxEditors_edtTBMainDHDisabled_MyDefault,
+.dxeTBVSys .dxEditors_edtTBMainDHHover_MyDefault,
+.dxeTBVSys .dxEditors_edtTBMainDHPressed_MyDefault,
+.dxeTBVSys .dxEditors_edtTBSecondaryDH_MyDefault,
+.dxeTBVSys .dxEditors_edtTBSecondaryDHDisabled_MyDefault,
+.dxeTBVSys .dxEditors_edtTBSecondaryDHHover_MyDefault,
+.dxeTBVSys .dxEditors_edtTBSecondaryDHPressed_MyDefault
+{
+    background-image: url('sprite.png');
+    background-repeat: no-repeat;
+    background-color: transparent;
+}
+.dxEditors_caRefresh_MyDefault
+{
+    background-position: -84px -176px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_edtCalendarFNNextYear_MyDefault
+{
+    background-position: -48px -204px;
+    width: 11px;
+    height: 12px;
+}
+.dxEditors_edtCalendarFNPrevYear_MyDefault
+{
+    background-position: -96px -204px;
+    width: 11px;
+    height: 12px;
+}
+.dxEditors_edtCalendarNextMonth_MyDefault
+{
+    background-position: 0px -204px;
+    width: 11px;
+    height: 12px;
+}
+.dxEditors_edtCalendarNextMonthDisabled_MyDefault
+{
+    background-position: -72px -204px;
+    width: 11px;
+    height: 12px;
+}
+.dxEditors_edtCalendarNextYear_MyDefault
+{
+    background-position: -84px -204px;
+    width: 11px;
+    height: 12px;
+}
+.dxEditors_edtCalendarNextYearDisabled_MyDefault
+{
+    background-position: -24px -204px;
+    width: 11px;
+    height: 12px;
+}
+.dxEditors_edtCalendarPrevMonth_MyDefault
+{
+    background-position: -60px -204px;
+    width: 11px;
+    height: 12px;
+}
+.dxEditors_edtCalendarPrevMonthDisabled_MyDefault
+{
+    background-position: -108px -204px;
+    width: 11px;
+    height: 12px;
+}
+.dxEditors_edtCalendarPrevYear_MyDefault
+{
+    background-position: -36px -204px;
+    width: 11px;
+    height: 12px;
+}
+.dxEditors_edtCalendarPrevYearDisabled_MyDefault
+{
+    background-position: -12px -204px;
+    width: 11px;
+    height: 12px;
+}
+.dxEditors_edtDETSClockFace_MyDefault
+{
+    background-position: 0px 0px;
+    width: 109px;
+    height: 109px;
+}
+.dxEditors_edtDETSHourHand_MyDefault
+{
+    background-position: -116px 0px;
+    width: 7px;
+    height: 63px;
+}
+.dxEditors_edtDETSMinuteHand_MyDefault
+{
+    background-position: -124px 0px;
+    width: 7px;
+    height: 63px;
+}
+.dxEditors_edtDETSSecondHand_MyDefault
+{
+    background-position: -110px 0px;
+    width: 5px;
+    height: 77px;
+}
+.dxEditors_edtDropDown_MyDefault
+{
+    background-position: -118px -146px;
+    width: 10px;
+    height: 14px;
+}
+.dxEditors_edtDropDownDisabled_MyDefault
+{
+    background-position: -107px -146px;
+    width: 10px;
+    height: 14px;
+}
+.dxEditors_edtEllipsis_MyDefault
+{
+    background-position: -95px -146px;
+    width: 11px;
+    height: 14px;
+}
+.dxEditors_edtEllipsisDisabled_MyDefault
+{
+    background-position: -156px -110px;
+    width: 11px;
+    height: 14px;
+}
+.dxEditors_edtError_MyDefault
+{
+    background-position: -80px -146px;
+    width: 14px;
+    height: 14px;
+}
+.dxEditors_edtRadioButtonChecked_MyDefault
+{
+    background-position: -48px -146px;
+    width: 15px;
+    height: 15px;
+}
+.dxEditors_edtRadioButtonCheckedDisabled_MyDefault
+{
+    background-position: 0px -146px;
+    width: 15px;
+    height: 15px;
+}
+.dxEditors_edtRadioButtonUnchecked_MyDefault
+{
+    background-position: -64px -146px;
+    width: 15px;
+    height: 15px;
+}
+.dxEditors_edtRadioButtonUncheckedDisabled_MyDefault
+{
+    background-position: -16px -146px;
+    width: 15px;
+    height: 15px;
+}
+.dxEditors_edtSpinEditDecrementImage_MyDefault
+{
+    background-position: -159px -126px;
+    width: 10px;
+    height: 5px;
+}
+.dxEditors_edtSpinEditDecrementImageDisabled_MyDefault
+{
+    background-position: -154px -22px;
+    width: 10px;
+    height: 5px;
+}
+.dxEditors_edtSpinEditIncrementImage_MyDefault
+{
+    background-position: -126px -204px;
+    width: 10px;
+    height: 5px;
+}
+.dxEditors_edtSpinEditIncrementImageDisabled_MyDefault
+{
+    background-position: -137px -204px;
+    width: 10px;
+    height: 5px;
+}
+.dxEditors_edtSpinEditLargeDecImage_MyDefault
+{
+    background-position: -120px -204px;
+    width: 5px;
+    height: 7px;
+}
+.dxEditors_edtSpinEditLargeDecImageDisabled_MyDefault
+{
+    background-position: -160px -132px;
+    width: 5px;
+    height: 7px;
+}
+.dxEditors_edtSpinEditLargeIncImage_MyDefault
+{
+    background-position: -164px -162px;
+    width: 5px;
+    height: 7px;
+}
+.dxEditors_edtSpinEditLargeIncImageDisabled_MyDefault
+{
+    background-position: -110px -80px;
+    width: 5px;
+    height: 7px;
+}
+.dxEditors_edtTBDecBtn_MyDefault
+{
+    background-position: -126px -88px;
+    width: 21px;
+    height: 21px;
+}
+.dxEditors_edtTBDecBtnDisabled_MyDefault
+{
+    background-position: -148px -88px;
+    width: 21px;
+    height: 21px;
+}
+.dxEditors_edtTBDecBtnHover_MyDefault
+{
+    background-position: 0px -110px;
+    width: 21px;
+    height: 21px;
+}
+.dxEditors_edtTBDecBtnPressed_MyDefault
+{
+    background-position: -132px -66px;
+    width: 21px;
+    height: 21px;
+}
+.dxEditors_edtTBIncBtn_MyDefault
+{
+    background-position: -132px -44px;
+    width: 21px;
+    height: 21px;
+}
+.dxEditors_edtTBIncBtnDisabled_MyDefault
+{
+    background-position: -132px 0px;
+    width: 21px;
+    height: 21px;
+}
+.dxEditors_edtTBIncBtnHover_MyDefault
+{
+    background-position: -132px -22px;
+    width: 21px;
+    height: 21px;
+}
+.dxEditors_edtTBIncBtnPressed_MyDefault
+{
+    background-position: -22px -110px;
+    width: 21px;
+    height: 21px;
+}
+.dxEditors_edtTokenBoxTokenRemoveButton_MyDefault
+{
+    background-position: -32px -146px;
+    width: 15px;
+    height: 15px;
+}
+.dxEditors_fcadd_MyDefault
+{
+    background-position: -140px -176px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcaddhot_MyDefault
+{
+    background-position: -136px -162px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcgroupaddcondition_MyDefault
+{
+    background-position: -56px -176px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcgroupaddgroup_MyDefault
+{
+    background-position: -154px -176px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcgroupand_MyDefault
+{
+    background-position: -112px -176px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcgroupnotand_MyDefault
+{
+    background-position: -150px -162px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcgroupnotor_MyDefault
+{
+    background-position: -126px -176px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcgroupor_MyDefault
+{
+    background-position: -56px -190px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcgroupremove_MyDefault
+{
+    background-position: -80px -162px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcopany_MyDefault
+{
+    background-position: -14px -176px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcopbegin_MyDefault
+{
+    background-position: -70px -176px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcopbetween_MyDefault
+{
+    background-position: -122px -162px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcopblank_MyDefault
+{
+    background-position: -42px -176px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcopcontain_MyDefault
+{
+    background-position: -98px -190px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcopend_MyDefault
+{
+    background-position: 0px -176px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcopequal_MyDefault
+{
+    background-position: -28px -176px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcopgreater_MyDefault
+{
+    background-position: -14px -190px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcopgreaterorequal_MyDefault
+{
+    background-position: -28px -190px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcopless_MyDefault
+{
+    background-position: -154px -190px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcoplessorequal_MyDefault
+{
+    background-position: -126px -190px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcoplike_MyDefault
+{
+    background-position: -108px -162px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcopnotany_MyDefault
+{
+    background-position: -84px -190px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcopnotbetween_MyDefault
+{
+    background-position: -94px -162px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcopnotblank_MyDefault
+{
+    background-position: -140px -190px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcopnotcontain_MyDefault
+{
+    background-position: -42px -190px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcopnotequal_MyDefault
+{
+    background-position: -112px -190px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcopnotlike_MyDefault
+{
+    background-position: -98px -176px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcremove_MyDefault
+{
+    background-position: 0px -190px;
+    width: 13px;
+    height: 13px;
+}
+.dxEditors_fcremovehot_MyDefault
+{
+    background-position: -70px -190px;
+    width: 13px;
+    height: 13px;
+}
+.dxeFocused_MyDefault .dxeTBHSys .dxeFocusedMDHSys .dxEditors_edtTBMainDH_MyDefault
+{
+    background-position: -154px -28px;
+    width: 13px;
+    height: 19px;
+}
+.dxeFocused_MyDefault .dxeTBHSys .dxeFocusedMDHSys .dxEditors_edtTBMainDHHover_MyDefault
+{
+    background-position: -154px 0px;
+    width: 13px;
+    height: 19px;
+}
+.dxeFocused_MyDefault .dxeTBHSys .dxeFocusedMDHSys .dxEditors_edtTBMainDHPressed_MyDefault
+{
+    background-position: -154px -68px;
+    width: 13px;
+    height: 19px;
+}
+.dxeFocused_MyDefault .dxeTBHSys .dxeFocusedSDHSys .dxEditors_edtTBSecondaryDH_MyDefault
+{
+    background-position: -128px -110px;
+    width: 13px;
+    height: 19px;
+}
+.dxeFocused_MyDefault .dxeTBHSys .dxeFocusedSDHSys .dxEditors_edtTBSecondaryDHHover_MyDefault
+{
+    background-position: -72px -110px;
+    width: 13px;
+    height: 19px;
+}
+.dxeFocused_MyDefault .dxeTBHSys .dxeFocusedSDHSys .dxEditors_edtTBSecondaryDHPressed_MyDefault
+{
+    background-position: -58px -110px;
+    width: 13px;
+    height: 19px;
+}
+.dxeFocused_MyDefault .dxeTBVSys .dxeFocusedMDHSys .dxEditors_edtTBMainDH_MyDefault
+{
+    background-position: -120px -132px;
+    width: 19px;
+    height: 13px;
+}
+.dxeFocused_MyDefault .dxeTBVSys .dxeFocusedMDHSys .dxEditors_edtTBMainDHHover_MyDefault
+{
+    background-position: -140px -132px;
+    width: 19px;
+    height: 13px;
+}
+.dxeFocused_MyDefault .dxeTBVSys .dxeFocusedMDHSys .dxEditors_edtTBMainDHPressed_MyDefault
+{
+    background-position: -60px -162px;
+    width: 19px;
+    height: 13px;
+}
+.dxeFocused_MyDefault .dxeTBVSys .dxeFocusedSDHSys .dxEditors_edtTBSecondaryDH_MyDefault
+{
+    background-position: -100px -132px;
+    width: 19px;
+    height: 13px;
+}
+.dxeFocused_MyDefault .dxeTBVSys .dxeFocusedSDHSys .dxEditors_edtTBSecondaryDHHover_MyDefault
+{
+    background-position: -20px -162px;
+    width: 19px;
+    height: 13px;
+}
+.dxeFocused_MyDefault .dxeTBVSys .dxeFocusedSDHSys .dxEditors_edtTBSecondaryDHPressed_MyDefault
+{
+    background-position: 0px -162px;
+    width: 19px;
+    height: 13px;
+}
+.dxeTBHSys .dxEditors_edtTBMainDH_MyDefault
+{
+    background-position: -114px -110px;
+    width: 13px;
+    height: 19px;
+}
+.dxeTBHSys .dxEditors_edtTBMainDHDisabled_MyDefault
+{
+    background-position: -116px -68px;
+    width: 13px;
+    height: 19px;
+}
+.dxeTBHSys .dxEditors_edtTBMainDHHover_MyDefault
+{
+    background-position: -142px -110px;
+    width: 13px;
+    height: 19px;
+}
+.dxeTBHSys .dxEditors_edtTBMainDHPressed_MyDefault
+{
+    background-position: -44px -110px;
+    width: 13px;
+    height: 19px;
+}
+.dxeTBHSys .dxEditors_edtTBSecondaryDH_MyDefault
+{
+    background-position: -100px -110px;
+    width: 13px;
+    height: 19px;
+}
+.dxeTBHSys .dxEditors_edtTBSecondaryDHDisabled_MyDefault
+{
+    background-position: -112px -90px;
+    width: 13px;
+    height: 19px;
+}
+.dxeTBHSys .dxEditors_edtTBSecondaryDHHover_MyDefault
+{
+    background-position: -154px -48px;
+    width: 13px;
+    height: 19px;
+}
+.dxeTBHSys .dxEditors_edtTBSecondaryDHPressed_MyDefault
+{
+    background-position: -86px -110px;
+    width: 13px;
+    height: 19px;
+}
+.dxeTBVSys .dxEditors_edtTBMainDH_MyDefault
+{
+    background-position: -60px -132px;
+    width: 19px;
+    height: 13px;
+}
+.dxeTBVSys .dxEditors_edtTBMainDHDisabled_MyDefault
+{
+    background-position: -40px -132px;
+    width: 19px;
+    height: 13px;
+}
+.dxeTBVSys .dxEditors_edtTBMainDHHover_MyDefault
+{
+    background-position: 0px -132px;
+    width: 19px;
+    height: 13px;
+}
+.dxeTBVSys .dxEditors_edtTBMainDHPressed_MyDefault
+{
+    background-position: -80px -132px;
+    width: 19px;
+    height: 13px;
+}
+.dxeTBVSys .dxEditors_edtTBSecondaryDH_MyDefault
+{
+    background-position: -149px -146px;
+    width: 19px;
+    height: 13px;
+}
+.dxeTBVSys .dxEditors_edtTBSecondaryDHDisabled_MyDefault
+{
+    background-position: -129px -146px;
+    width: 19px;
+    height: 13px;
+}
+.dxeTBVSys .dxEditors_edtTBSecondaryDHHover_MyDefault
+{
+    background-position: -40px -162px;
+    width: 19px;
+    height: 13px;
+}
+.dxeTBVSys .dxEditors_edtTBSecondaryDHPressed_MyDefault
+{
+    background-position: -20px -132px;
+    width: 19px;
+    height: 13px;
+}
+.dxeTBVSys .dxEditors_edtTBMainDHPressed_MyDefault,
+.dxeTBVSys .dxEditors_edtTBSecondaryDHPressed_MyDefault
+{
+	z-index: 7;
+}
+.dxeTBHSys .dxEditors_edtTBMainDHPressed_MyDefault,
+.dxeTBHSys .dxEditors_edtTBSecondaryDHPressed_MyDefault
+{
+	z-index: 7;
+}
+.dxEditors_edtError_MyDefault,
+.dxEditors_edtCalendarPrevYear_MyDefault,
+.dxEditors_edtCalendarPrevYearDisabled_MyDefault,
+.dxEditors_edtCalendarPrevMonth_MyDefault,
+.dxEditors_edtCalendarPrevMonthDisabled_MyDefault,
+.dxEditors_edtCalendarNextMonth_MyDefault,
+.dxEditors_edtCalendarNextMonthDisabled_MyDefault,
+.dxEditors_edtCalendarNextYear_MyDefault,
+.dxEditors_edtCalendarNextYearDisabled_MyDefault,
+.dxEditors_edtCalendarFNPrevYear_MyDefault,
+.dxEditors_edtCalendarFNNextYear_MyDefault,
+.dxEditors_edtEllipsis_MyDefault,
+.dxEditors_edtEllipsisDisabled_MyDefault,
+.dxEditors_edtDropDown_MyDefault,
+.dxEditors_edtDropDownDisabled_MyDefault,
+.dxEditors_edtSpinEditIncrementImage_MyDefault,
+.dxEditors_edtSpinEditIncrementImageDisabled_MyDefault,
+.dxEditors_edtSpinEditDecrementImage_MyDefault,
+.dxEditors_edtSpinEditDecrementImageDisabled_MyDefault,
+.dxEditors_edtSpinEditLargeIncImage_MyDefault,
+.dxEditors_edtSpinEditLargeIncImageDisabled_MyDefault,
+.dxEditors_edtSpinEditLargeDecImage_MyDefault,
+.dxEditors_edtSpinEditLargeDecImageDisabled_MyDefault
+{
+	display:block;
+	margin:auto;
+}
+
