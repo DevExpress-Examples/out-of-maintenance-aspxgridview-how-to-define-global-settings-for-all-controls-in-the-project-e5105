@@ -6,6 +6,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # ASPxGridView - How to define global settings for all controls in the project
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e5105/)**
+<!-- run online end -->
 
 
 <p>This example illustrates the approach described in the <a href="https://www.devexpress.com/Support/Center/p/KA18916">How to define global settings for all controls in my project</a> KB article.</p>
