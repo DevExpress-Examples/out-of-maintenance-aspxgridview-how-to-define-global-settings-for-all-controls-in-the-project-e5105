@@ -1,7 +1,0 @@
-<%@ Register TagPrefix="dx" Namespace="DevExpress.Data" Assembly="DevExpress.Data.v13.2, Version=13.2.15.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" %>
-<%@ Register TagPrefix="dx" Namespace="DevExpress.Web" Assembly="DevExpress.Web.v13.2, Version=13.2.15.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" %>
-
-
-<dx:ASPxGridLookup runat="server" CssPostfix="MyDefault" CssFilePath="~/App_Themes/MyDefault/{0}/styles.css" SpriteCssFilePath="~/App_Themes/MyDefault/{0}/sprite.css" >
-  
-</dx:ASPxGridLookup>
